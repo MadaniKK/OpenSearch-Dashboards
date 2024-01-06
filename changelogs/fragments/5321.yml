@@ -1,0 +1,2 @@
+test:
+  - Add unit testing to new feature ([#5321](https://github.com/opensearch-project/OpenSearch-Dashboards/pull/5321))
